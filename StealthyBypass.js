@@ -1,4 +1,4 @@
-// Made by StackTraced (2025)
+// Made by Rypsec (2025)
 
 setTimeout(() => {
   const API = window.API;
